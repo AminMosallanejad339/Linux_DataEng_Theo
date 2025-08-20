@@ -50,10 +50,7 @@ This version:
 - Suggests **practical exercises** clearly.
 - Makes it **GitHub-ready** and easy for learners to follow.
 
-------
-
-
-
+```
 linux-data-engineering/
  │
  ├── step1_basics/
@@ -109,5 +106,4 @@ linux-data-engineering/
  │       └── processed_data.csv     # Output of final project
  │
  └── README.md
-# Linux_-DE_Theo
-# Linux_DataEng_Theo
+```
